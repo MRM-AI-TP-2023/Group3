@@ -28,3 +28,5 @@ Rostopic list
 
 
 ![Screenshot from 2022-02-06 16-18-03](https://user-images.githubusercontent.com/96300383/152677868-ad32f677-c09e-45f7-995a-369d608920e6.png)
+
+YT LINK - https://youtu.be/WArX7vRW_jM
